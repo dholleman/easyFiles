@@ -5,5 +5,5 @@ setup(
     version='0.1.0',
     description='Easy File finding.',
     author='Daan Holleman',
-	install_requires=['numpy', 'os'],
+	install_requires=['numpy'],
 )
